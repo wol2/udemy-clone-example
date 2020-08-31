@@ -21,6 +21,11 @@ h6 {
   padding: 0px;
 }
 
+button {
+  outline: none;
+  cursor: pointer;
+}
+
 .flex {
   display: flex;
 }
@@ -35,6 +40,14 @@ h6 {
 
 .fixed {
   position: fixed;
+}
+
+.abs {
+  position: absolute;
+}
+
+.rel {
+  position: relative;
 }
 
 .noul {
@@ -71,6 +84,10 @@ h6 {
 
 .s24 {
   font-size: 24px;
+}
+
+.fontn {
+  font-weight: normal;
 }
 
 .fontb {

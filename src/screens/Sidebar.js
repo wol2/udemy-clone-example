@@ -31,9 +31,9 @@ function Sidebar() {
   }
 
   return (
-    <div className="Sidebar fixed">
-      <a href="a" className="logo bl">
-        <img src={logo} className="bl" />
+    <div className="Sidebar">
+      <a href="#" className="logo bl">
+        <img src={logo} className="bl" alt="" />
       </a>
 
       <ul className="nav">{navigation}</ul>
