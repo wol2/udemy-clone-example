@@ -1,0 +1,108 @@
+.Sidebar {
+  width: 275px;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+
+.Sidebar .logo {
+  padding: 20px 25px;
+}
+
+.Sidebar .logo img {
+  height: 40px;
+}
+
+.Sidebar .nav {
+  padding: 50px 35px;
+}
+
+.Sidebar .nav li {
+}
+
+.Sidebar .nav li a {
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 6px;
+}
+
+.Sidebar .nav li a .ico {
+  margin-right: 10px;
+}
+
+.Sidebar .nav li a .lbl {
+}
+
+.Sidebar .nav li a.on {
+  border-left: 2px #ea5252 solid;
+  color: #ea5252;
+  line-height: 1;
+}
+
+.Sidebar .updated-course {
+  padding: 0px 42px;
+  margin: 20px 0px;
+}
+
+.Sidebar .updated-course .ico {
+  background: #ea5252;
+  padding: 15px;
+  border-radius: 22px;
+  margin-right: 10px;
+}
+
+.Sidebar .updated-course .lbl {
+}
+
+.Sidebar .updated-course .author {
+}
+
+.Sidebar .stats {
+  margin: 70px 50px;
+}
+
+.Sidebar .stats .stas-box {
+  flex-direction: column;
+  width: 105px;
+}
+
+.Sidebar .stats .stas-box .ico {
+  margin-bottom: 15px;
+}
+
+.Sidebar .stats .stas-box .val {
+}
+
+.Sidebar .stats .stas-box .lbl {
+}
+
+.Sidebar .stats .stas-box .ico-points {
+  color: #1aab53;
+}
+
+.Sidebar .stats .stas-box .ico-battery {
+  color: #ea5252;
+}
+
+.Sidebar .me {
+  padding: 20px 40px;
+}
+
+.Sidebar .me .photo {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  overflow: hidden;
+  margin-left: 10px;
+  background: #eeeeee;
+}
+
+.Sidebar .me .photo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.Sidebar .me .lbl {
+  margin-left: 10px;
+}
